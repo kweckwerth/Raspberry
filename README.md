@@ -1,5 +1,5 @@
 # Raspberry
-This is my first attempt at a compiled Angular deployment to display a list of Youtube videos using Tomcat.  Checkout my other project 
+This is my first attempt at a compiled Angular deployment to display a list of Youtube videos using Tomcat.  Checkout my other project "AngularYoutubePlayer" for the source code to this.  This project was meant to share for deployment purposes.
 
 To Run
 ------
